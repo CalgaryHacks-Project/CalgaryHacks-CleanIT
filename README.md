@@ -2,15 +2,18 @@
 
 ### User interface examples:
 
-<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/ui.PNG?raw=true" width=500>
+<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/ui.PNG?raw=true" width=300>
 
 ### Model:
 
-<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/model_plot.png?raw=true" width=500>
-<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/train.PNG?raw=true" width=500>
+<p align="center">
+<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/model_plot.png?raw=true" width=300>
+<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/train.PNG?raw=true" width=600>
+</p>
 
 ### Results
 
-<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/result1.PNG?raw=true" width=500>
-<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/result2.PNG?raw=true" width=500>
-
+<p align="center">
+<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/result1.PNG?raw=true" width=400>
+<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/result2.PNG?raw=true" width=400>
+</p>
