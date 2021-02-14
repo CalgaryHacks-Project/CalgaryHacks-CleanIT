@@ -2,7 +2,9 @@
 
 ### User interface examples:
 
-<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/ui.PNG?raw=true" width=300>
+<p align="center">
+<img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/ui.PNG?raw=true" width=600>
+</p>
 
 ### Model:
 
