@@ -13,7 +13,7 @@
 <img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/train.PNG?raw=true" width=600>
 </p>
 
-### Results
+### Results:
 
 <p align="center">
 <img src="https://github.com/CalgaryHacks-Project/CalgaryHacks-project/blob/main/docs/result1.PNG?raw=true" width=400>
